@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SecretSantaRandomizer
+namespace SecretSantaRandomizer.Exceptions
 {
 	public class SantaTargetingException : Exception
 	{

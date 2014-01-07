@@ -1,0 +1,3 @@
+﻿playersList=SecretSanta.txt
+gameMasterEmail=login@domain.ru
+mailTemplate=SecretSantaRandomizer.MessageTemplate.html
